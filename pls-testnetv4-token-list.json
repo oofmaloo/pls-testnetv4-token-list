@@ -23,7 +23,7 @@
         {
             "name": "Wrapped Ethereum",
             "chainId": 943,
-            "symbol": "WETH (Ethereum)",
+            "symbol": "WETH From Ethereum",
             "decimals": 18,
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "logoURI": "https://gemini.com/images/currencies/icons/default/weth.svg"
